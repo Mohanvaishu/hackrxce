@@ -121,8 +121,8 @@ def hero():
         if (len(numbers)>19):
             clear()
             system('figlet Thank you!!')
-            print("Play on next specified time!!")
-            print("-----------Current Time UP----------")
+            print("Play on any time!!")
+            print("-----------No time limit----------")
             sys.exit(" \n \n \n Contact on Telegram @tusharma3")
             print(numbers)
   
