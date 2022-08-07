@@ -169,14 +169,14 @@ if(expirydate>today):
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @tusharma3 ")
-else:
-    banner='figlet Thank '
-    system(banner)
-    print("*---------*----------*-------------*----------*")
-    print("Your hack has expired--- Please contact")
-    print(" on telegram ----@tusharma3 for activating")
-    print(" Recharge Amount :        Total limit " )
-    print(" 2.     2000 INR -------  30 Days(1200 Games Daily ")
-    print("*---------*----------*-------------*----------*")
-    print("Your custom hack can be made request from us.")
-    print( "Msg me on telegram @tusharma3")
+
+
+
+
+
+   
+
+
+
+
+
