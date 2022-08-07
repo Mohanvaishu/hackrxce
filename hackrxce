@@ -121,8 +121,8 @@ def hero():
         if (len(numbers)>19):
             clear()
             system('figlet Thank you!!')
-            print("Play on any time!!")
-            print("-----------No time limit----------")
+            print("Play on next specify time!!")
+            print("-----------Current time up----------")
             sys.exit(" \n \n \n Contact on Telegram @tusharma3")
             print(numbers)
   
@@ -155,7 +155,7 @@ if(expirydate>today):
             period=400
             hero()
     elif(now>FFinal and now<FFinalend):
-            period=435
+            period=460
             hero()
     else:
         banner='figlet Rxce 5.o '
