@@ -120,11 +120,7 @@ def hero():
             y=False
         if (len(numbers)>19):
             clear()
-            system('figlet Thank you!!')
-            print("Play on next specify time!!")
-            print("-----------Current time up----------")
-            sys.exit(" \n \n \n Contact on Telegram @tusharma3")
-            print(numbers)
+            
   
 
 
