@@ -121,62 +121,12 @@ def hero():
         if (len(numbers)>19):
             clear()
             system('figlet Thank you!!')
-            print("Play on next specified time!!")
-            print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @tusharma3")
-            print(numbers)
+            
   
 
 
 
-if(expirydate>today):
-    now = datetime.datetime.now()
-    First = now.replace(hour=10, minute=55, second=0, microsecond=0)
-    Firstend = now.replace(hour=11, minute=59, second=0, microsecond=0)
-    Second = now.replace(hour=13, minute=55, second=0, microsecond=0)
-    Secondend = now.replace(hour=14, minute=59, second=0, microsecond=0)
-    Third = now.replace(hour=17, minute=55, second=0, microsecond=0)
-    Thirdend = now.replace(hour=18, minute=59, second=0, microsecond=0)
-    Final = now.replace(hour=19, minute=55, second=0, microsecond=0)
-    Finalend = now.replace(hour=20, minute=59, second=0, microsecond= 0)
-    FFinal = now.replace(hour=22, minute=55, second=0, microsecond= 0)
-    FFinalend = now.replace(hour=23, minute=59, second=0, microsecond= 0)
 
-    if (now>First and now<Firstend):
-            period=220
-            hero()
-    elif(now>Second and now<Secondend):
-            period=280
-            hero()
-    elif(now>Third and now<Thirdend):
-            period=360
-            hero()
-    elif(now>Final and now<Finalend):
-            period=400
-            hero()
-    elif(now>FFinal and now<FFinalend):
-            period=460
-            hero()
-    else:
-        banner='figlet Rxce 5.o '
-        print("Hi!! Thanks for buying the hack")
-        print("----------Your play time-----------")
-        print(" 11:00 AM- 12:00 AM")
-        print(" 02:00 PM- 03:00 PM")
-        print(" 04:00 PM- 07:00 PM")
-        print(" 08:00 PM- 09:00 PM")
-        print(" 11:00 PM- 12:00 PM")
-        print("Please play on the given time, and ")
-        print("If you think it is an error contact")
-        print(" admin on telegram @tusharma3 ")
-
-
-
-
-
-   
-
-
-
+    
 
 
